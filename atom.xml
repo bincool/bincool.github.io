@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>My Blog</title>
+  
+  <subtitle>獣道を進む決意</subtitle>
+  <link href="/atom.xml" rel="self"/>
+  
+  <link href="http://yoursite.com/"/>
+  <updated>2018-08-16T12:34:05.092Z</updated>
+  <id>http://yoursite.com/</id>
+  
+  <author>
+    <name>bincool</name>
+    
+  </author>
+  
+  <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>LaTex Math Test</title>
+    <link href="http://yoursite.com/2018/08/16/2018-08-16-1004%E5%85%AC%E5%BC%8F%E6%B5%8B%E8%AF%95%E4%BA%8C/"/>
+    <id>http://yoursite.com/2018/08/16/2018-08-16-1004公式测试二/</id>
+    <published>2018-08-16T12:14:16.000Z</published>
+    <updated>2018-08-16T12:34:05.092Z</updated>
+    
+    <content type="html"><![CDATA[<h3 id="多行公式："><a href="#多行公式：" class="headerlink" title="多行公式："></a>多行公式：</h3><script type="math/tex; mode=display">\displaystyle\left( \sum\_{k=1}^n a\_k b\_k \right)^2\leq\left( \sum\_{k=1}^n a\_k^2 \right)\left( \sum\_{k=1}^n b\_k^2 \right)</script><script type="math/tex; mode=display">\displaystyle     \frac{1}{        \Bigl(\sqrt{\phi \sqrt{5}}-\phi\Bigr) e^{        \frac25 \pi}} = 1+\frac{e^{-2\pi}} {1+\frac{e^{-4\pi}} {        1+\frac{e^{-6\pi}}        {1+\frac{e^{-8\pi}}         {1+\cdots} }        }     }</script><script type="math/tex; mode=display">f(x) = \int_{-\infty}^\infty    \hat f(\xi)\,e^{2 \pi i \xi x}    \,d\xi</script>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;h3 id=&quot;多行公式：&quot;&gt;&lt;a href=&quot;#多行公式：&quot; class=&quot;headerlink&quot; title=&quot;多行公式：&quot;&gt;&lt;/a&gt;多行公式：&lt;/h3&gt;&lt;script type=&quot;math/tex; mode=display&quot;&gt;
+\displaystyle
+\left( \
+      
+    
+    </summary>
+    
+      <category term="博客测试" scheme="http://yoursite.com/categories/%E5%8D%9A%E5%AE%A2%E6%B5%8B%E8%AF%95/"/>
+    
+    
+      <category term="blog test" scheme="http://yoursite.com/tags/blog-test/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>TeX(KaTeX) Test</title>
+    <link href="http://yoursite.com/2018/08/16/2018-08-16-1003%E5%85%AC%E5%BC%8F%E6%B5%8B%E8%AF%95%E4%B8%80/"/>
+    <id>http://yoursite.com/2018/08/16/2018-08-16-1003公式测试一/</id>
+    <published>2018-08-16T07:14:16.000Z</published>
+    <updated>2018-08-16T07:17:33.148Z</updated>
+    
+    <content type="html"><![CDATA[<h3 id="科学公式-TeX-KaTeX"><a href="#科学公式-TeX-KaTeX" class="headerlink" title="科学公式 TeX(KaTeX)"></a>科学公式 TeX(KaTeX)</h3><script type="math/tex; mode=display">E=mc^2</script><p>行内的公式<script type="math/tex">E=mc^2</script>行内的公式，行内的<script type="math/tex">E=mc^2</script>公式。</p><script type="math/tex; mode=display">(\sqrt{3x-1}+(1+x)^2)</script><script type="math/tex; mode=display">\sin(\alpha)^{\theta}=\sum_{i=0}^{n}(x^i + \cos(f))</script>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;h3 id=&quot;科学公式-TeX-KaTeX&quot;&gt;&lt;a href=&quot;#科学公式-TeX-KaTeX&quot; class=&quot;headerlink&quot; title=&quot;科学公式 TeX(KaTeX)&quot;&gt;&lt;/a&gt;科学公式 TeX(KaTeX)&lt;/h3&gt;&lt;script type=&quot;math/tex;
+      
+    
+    </summary>
+    
+      <category term="博客测试" scheme="http://yoursite.com/categories/%E5%8D%9A%E5%AE%A2%E6%B5%8B%E8%AF%95/"/>
+    
+    
+      <category term="blog test" scheme="http://yoursite.com/tags/blog-test/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Sequence Diagram Test</title>
+    <link href="http://yoursite.com/2018/08/16/2018-08-16-1002%E5%BA%8F%E5%88%97%E5%9B%BE%E6%B5%8B%E8%AF%95/"/>
+    <id>http://yoursite.com/2018/08/16/2018-08-16-1002序列图测试/</id>
+    <published>2018-08-16T06:24:16.000Z</published>
+    <updated>2018-08-16T07:14:13.900Z</updated>
+    
+    <content type="html"><![CDATA[<h3 id="绘制序列图-Sequence-Diagram"><a href="#绘制序列图-Sequence-Diagram" class="headerlink" title="绘制序列图 Sequence Diagram"></a>绘制序列图 Sequence Diagram</h3><p><div id="sequence-0"></div><script src="https://cdn.bootcss.com/webfont/1.6.28/webfontloader.js"></script><script src="https://cdn.bootcss.com/raphael/2.2.7/raphael.min.js"></script><script src="https://cdn.bootcss.com/underscore.js/1.8.3/underscore-min.js"></script><script src="https://cdn.bootcss.com/js-sequence-diagrams/1.0.6/sequence-diagram-min.js"></script><textarea id="sequence-0-code" style="display: none">Andrew->China: Says Hello Note right of China: China thinks\nabout it China-->Andrew: How are you? Andrew->>China: I am good thanks!</textarea><textarea id="sequence-0-options" style="display: none">{"theme":"simple"}</textarea><script>  var code = document.getElementById("sequence-0-code").value;  var options = JSON.parse(decodeURIComponent(document.getElementById("sequence-0-options").value));  var diagram = Diagram.parse(code);  diagram.drawSVG("sequence-0", options);</script></p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;h3 id=&quot;绘制序列图-Sequence-Diagram&quot;&gt;&lt;a href=&quot;#绘制序列图-Sequence-Diagram&quot; class=&quot;headerlink&quot; title=&quot;绘制序列图 Sequence Diagram&quot;&gt;&lt;/a&gt;绘制序列图 Sequence Diagr
+      
+    
+    </summary>
+    
+      <category term="博客测试" scheme="http://yoursite.com/categories/%E5%8D%9A%E5%AE%A2%E6%B5%8B%E8%AF%95/"/>
+    
+    
+      <category term="blog test" scheme="http://yoursite.com/tags/blog-test/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Flowchart Test</title>
+    <link href="http://yoursite.com/2018/08/16/2018-08-16-1001%E6%B5%81%E7%A8%8B%E5%9B%BE%E6%B5%8B%E8%AF%95/"/>
+    <id>http://yoursite.com/2018/08/16/2018-08-16-1001流程图测试/</id>
+    <published>2018-08-16T06:20:16.000Z</published>
+    <updated>2018-08-16T06:50:42.769Z</updated>
+    
+    <content type="html"><![CDATA[<h3 id="绘制流程图-Flowchart"><a href="#绘制流程图-Flowchart" class="headerlink" title="绘制流程图 Flowchart"></a>绘制流程图 Flowchart</h3><p><div id="flowchart-0" class="flow-chart"></div><script src="https://cdnjs.cloudflare.com/ajax/libs/raphael/2.2.7/raphael.min.js"></script><script src="https://cdnjs.cloudflare.com/ajax/libs/flowchart/1.6.5/flowchart.min.js"></script><textarea id="flowchart-0-code" style="display: none">st=>start: Startop=>operation: Your Operationcond=>condition: Yes or No?e=>endst->op->condcond(yes)->econd(no)->op</textarea><textarea id="flowchart-0-options" style="display: none">{"scale":1,"line-width":2,"line-length":50,"text-margin":10,"font-size":12}</textarea><script>  var code = document.getElementById("flowchart-0-code").value;  var options = JSON.parse(decodeURIComponent(document.getElementById("flowchart-0-options").value));  var diagram = flowchart.parse(code);  diagram.drawSVG("flowchart-0", options);</script></p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;h3 id=&quot;绘制流程图-Flowchart&quot;&gt;&lt;a href=&quot;#绘制流程图-Flowchart&quot; class=&quot;headerlink&quot; title=&quot;绘制流程图 Flowchart&quot;&gt;&lt;/a&gt;绘制流程图 Flowchart&lt;/h3&gt;&lt;p&gt;&lt;div id=&quot;flowchart
+      
+    
+    </summary>
+    
+      <category term="博客测试" scheme="http://yoursite.com/categories/%E5%8D%9A%E5%AE%A2%E6%B5%8B%E8%AF%95/"/>
+    
+    
+      <category term="blog test" scheme="http://yoursite.com/tags/blog-test/"/>
+    
+  </entry>
+  
+</feed>
