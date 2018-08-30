@@ -5,9 +5,9 @@
   <subtitle>獣道を進む決意</subtitle>
   <link href="/atom.xml" rel="self"/>
   
-  <link href="https://bincool.github.io/"/>
+  <link href="https://bincool.coding.me/"/>
   <updated>2018-08-17T06:35:56.790Z</updated>
-  <id>https://bincool.github.io/</id>
+  <id>https://bincool.coding.me/</id>
   
   <author>
     <name>bincool</name>
@@ -18,8 +18,8 @@
   
   <entry>
     <title>Markdown Test</title>
-    <link href="https://bincool.github.io/article/20180817/2018-08-17-1001Markdown%E6%B5%8B%E8%AF%95%E4%B8%80.html"/>
-    <id>https://bincool.github.io/article/20180817/2018-08-17-1001Markdown测试一.html</id>
+    <link href="https://bincool.coding.me/article/20180817/2018-08-17-1001Markdown%E6%B5%8B%E8%AF%95%E4%B8%80.html"/>
+    <id>https://bincool.coding.me/article/20180817/2018-08-17-1001Markdown测试一.html</id>
     <published>2018-08-17T06:14:16.000Z</published>
     <updated>2018-08-17T06:35:56.790Z</updated>
     
@@ -35,17 +35,17 @@
     
     </summary>
     
-      <category term="博客测试" scheme="https://bincool.github.io/categories/%E5%8D%9A%E5%AE%A2%E6%B5%8B%E8%AF%95/"/>
+      <category term="博客测试" scheme="https://bincool.coding.me/categories/%E5%8D%9A%E5%AE%A2%E6%B5%8B%E8%AF%95/"/>
     
     
-      <category term="markdown test" scheme="https://bincool.github.io/tags/markdown-test/"/>
+      <category term="markdown test" scheme="https://bincool.coding.me/tags/markdown-test/"/>
     
   </entry>
   
   <entry>
     <title>LaTex Math Test</title>
-    <link href="https://bincool.github.io/article/20180816/2018-08-16-1004%E5%85%AC%E5%BC%8F%E6%B5%8B%E8%AF%95%E4%BA%8C.html"/>
-    <id>https://bincool.github.io/article/20180816/2018-08-16-1004公式测试二.html</id>
+    <link href="https://bincool.coding.me/article/20180816/2018-08-16-1004%E5%85%AC%E5%BC%8F%E6%B5%8B%E8%AF%95%E4%BA%8C.html"/>
+    <id>https://bincool.coding.me/article/20180816/2018-08-16-1004公式测试二.html</id>
     <published>2018-08-16T12:14:16.000Z</published>
     <updated>2018-08-16T12:34:05.092Z</updated>
     
@@ -62,17 +62,17 @@
     
     </summary>
     
-      <category term="博客测试" scheme="https://bincool.github.io/categories/%E5%8D%9A%E5%AE%A2%E6%B5%8B%E8%AF%95/"/>
+      <category term="博客测试" scheme="https://bincool.coding.me/categories/%E5%8D%9A%E5%AE%A2%E6%B5%8B%E8%AF%95/"/>
     
     
-      <category term="blog test" scheme="https://bincool.github.io/tags/blog-test/"/>
+      <category term="blog test" scheme="https://bincool.coding.me/tags/blog-test/"/>
     
   </entry>
   
   <entry>
     <title>TeX(KaTeX) Test</title>
-    <link href="https://bincool.github.io/article/20180816/2018-08-16-1003%E5%85%AC%E5%BC%8F%E6%B5%8B%E8%AF%95%E4%B8%80.html"/>
-    <id>https://bincool.github.io/article/20180816/2018-08-16-1003公式测试一.html</id>
+    <link href="https://bincool.coding.me/article/20180816/2018-08-16-1003%E5%85%AC%E5%BC%8F%E6%B5%8B%E8%AF%95%E4%B8%80.html"/>
+    <id>https://bincool.coding.me/article/20180816/2018-08-16-1003公式测试一.html</id>
     <published>2018-08-16T07:14:16.000Z</published>
     <updated>2018-08-16T07:17:33.148Z</updated>
     
@@ -87,17 +87,17 @@
     
     </summary>
     
-      <category term="博客测试" scheme="https://bincool.github.io/categories/%E5%8D%9A%E5%AE%A2%E6%B5%8B%E8%AF%95/"/>
+      <category term="博客测试" scheme="https://bincool.coding.me/categories/%E5%8D%9A%E5%AE%A2%E6%B5%8B%E8%AF%95/"/>
     
     
-      <category term="blog test" scheme="https://bincool.github.io/tags/blog-test/"/>
+      <category term="blog test" scheme="https://bincool.coding.me/tags/blog-test/"/>
     
   </entry>
   
   <entry>
     <title>Sequence Diagram Test</title>
-    <link href="https://bincool.github.io/article/20180816/2018-08-16-1002%E5%BA%8F%E5%88%97%E5%9B%BE%E6%B5%8B%E8%AF%95.html"/>
-    <id>https://bincool.github.io/article/20180816/2018-08-16-1002序列图测试.html</id>
+    <link href="https://bincool.coding.me/article/20180816/2018-08-16-1002%E5%BA%8F%E5%88%97%E5%9B%BE%E6%B5%8B%E8%AF%95.html"/>
+    <id>https://bincool.coding.me/article/20180816/2018-08-16-1002序列图测试.html</id>
     <published>2018-08-16T06:24:16.000Z</published>
     <updated>2018-08-16T07:14:13.900Z</updated>
     
@@ -112,17 +112,17 @@
     
     </summary>
     
-      <category term="博客测试" scheme="https://bincool.github.io/categories/%E5%8D%9A%E5%AE%A2%E6%B5%8B%E8%AF%95/"/>
+      <category term="博客测试" scheme="https://bincool.coding.me/categories/%E5%8D%9A%E5%AE%A2%E6%B5%8B%E8%AF%95/"/>
     
     
-      <category term="blog test" scheme="https://bincool.github.io/tags/blog-test/"/>
+      <category term="blog test" scheme="https://bincool.coding.me/tags/blog-test/"/>
     
   </entry>
   
   <entry>
     <title>Flowchart Test</title>
-    <link href="https://bincool.github.io/article/20180816/2018-08-16-1001%E6%B5%81%E7%A8%8B%E5%9B%BE%E6%B5%8B%E8%AF%95.html"/>
-    <id>https://bincool.github.io/article/20180816/2018-08-16-1001流程图测试.html</id>
+    <link href="https://bincool.coding.me/article/20180816/2018-08-16-1001%E6%B5%81%E7%A8%8B%E5%9B%BE%E6%B5%8B%E8%AF%95.html"/>
+    <id>https://bincool.coding.me/article/20180816/2018-08-16-1001流程图测试.html</id>
     <published>2018-08-16T06:20:16.000Z</published>
     <updated>2018-08-16T06:50:42.769Z</updated>
     
@@ -137,10 +137,10 @@
     
     </summary>
     
-      <category term="博客测试" scheme="https://bincool.github.io/categories/%E5%8D%9A%E5%AE%A2%E6%B5%8B%E8%AF%95/"/>
+      <category term="博客测试" scheme="https://bincool.coding.me/categories/%E5%8D%9A%E5%AE%A2%E6%B5%8B%E8%AF%95/"/>
     
     
-      <category term="blog test" scheme="https://bincool.github.io/tags/blog-test/"/>
+      <category term="blog test" scheme="https://bincool.coding.me/tags/blog-test/"/>
     
   </entry>
   
